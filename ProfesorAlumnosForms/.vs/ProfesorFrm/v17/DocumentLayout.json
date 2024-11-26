@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\",
+  "WorkspaceRootPath": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\profesorfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|solutionrelative:profesorfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|d:\\usuarios\\dam2\\minireto-di\\profesoralumnosforms\\profesorfrm\\subirproyectofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|solutionrelative:profesorfrm\\subirproyectofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\profesorfrm\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|solutionrelative:profesorfrm\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|d:\\usuarios\\dam2\\minireto-di\\profesoralumnosforms\\profesorfrm\\subirproyectofrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|solutionrelative:profesorfrm\\subirproyectofrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|d:\\usuarios\\dam2\\desktop\\profesoralumnosforms\\profesorfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|d:\\usuarios\\dam2\\minireto-di\\profesoralumnosforms\\profesorfrm\\subirproyectofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|solutionrelative:profesorfrm\\subirproyectofrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|d:\\usuarios\\dam2\\minireto-di\\profesoralumnosforms\\profesorfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|solutionrelative:profesorfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|d:\\usuarios\\dam2\\desktop\\profesoralumnosforms\\profesorfrm\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\profesorfrm\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|solutionrelative:profesorfrm\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\profesorfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|solutionrelative:profesorfrm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|d:\\usuarios\\dam2\\minireto-di\\profesoralumnosforms\\profesorfrm\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21D7F5FA-E6DB-40F7-9E90-A3433F7041F4}|ProfesorFrm\\ProfesorFrm.csproj|solutionrelative:profesorfrm\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,53 +46,89 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubirProyectoFrm.cs",
+              "DocumentMoniker": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\SubirProyectoFrm.cs",
+              "RelativeDocumentMoniker": "ProfesorFrm\\SubirProyectoFrm.cs",
+              "ToolTip": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\SubirProyectoFrm.cs",
+              "RelativeToolTip": "ProfesorFrm\\SubirProyectoFrm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:08:18.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubirProyectoFrm.Designer.cs",
+              "DocumentMoniker": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\SubirProyectoFrm.Designer.cs",
+              "RelativeDocumentMoniker": "ProfesorFrm\\SubirProyectoFrm.Designer.cs",
+              "ToolTip": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\SubirProyectoFrm.Designer.cs",
+              "RelativeToolTip": "ProfesorFrm\\SubirProyectoFrm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:53:18.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SubirProyectoFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\SubirProyectoFrm.cs",
+              "RelativeDocumentMoniker": "ProfesorFrm\\SubirProyectoFrm.cs",
+              "ToolTip": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\SubirProyectoFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProfesorFrm\\SubirProyectoFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:47:15.672Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\ProfesorFrm\\Form1.cs",
+              "DocumentMoniker": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\Form1.cs",
               "RelativeDocumentMoniker": "ProfesorFrm\\Form1.cs",
-              "ToolTip": "D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\ProfesorFrm\\Form1.cs",
+              "ToolTip": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\Form1.cs",
               "RelativeToolTip": "ProfesorFrm\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwCsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T18:51:21.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FormAlumnos.cs",
-              "DocumentMoniker": "D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\ProfesorFrm\\FormAlumnos.cs",
+              "DocumentMoniker": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\FormAlumnos.cs",
               "RelativeDocumentMoniker": "ProfesorFrm\\FormAlumnos.cs",
-              "ToolTip": "D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\ProfesorFrm\\FormAlumnos.cs",
+              "ToolTip": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\FormAlumnos.cs",
               "RelativeToolTip": "ProfesorFrm\\FormAlumnos.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAApwAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T18:51:15.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\ProfesorFrm\\Form1.cs",
+              "DocumentMoniker": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\Form1.cs",
               "RelativeDocumentMoniker": "ProfesorFrm\\Form1.cs",
-              "ToolTip": "D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\ProfesorFrm\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "ProfesorFrm\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T18:50:48.99Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-21T18:50:48.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FormAlumnos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\ProfesorFrm\\FormAlumnos.cs",
+              "DocumentMoniker": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\FormAlumnos.cs",
               "RelativeDocumentMoniker": "ProfesorFrm\\FormAlumnos.cs",
-              "ToolTip": "D:\\Usuarios\\dam2\\Desktop\\ProfesorAlumnosForms\\ProfesorFrm\\FormAlumnos.cs [Dise\u00F1o]",
+              "ToolTip": "D:\\Usuarios\\dam2\\MiniReto-DI\\ProfesorAlumnosForms\\ProfesorFrm\\FormAlumnos.cs [Dise\u00F1o]",
               "RelativeToolTip": "ProfesorFrm\\FormAlumnos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T18:46:56.601Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-21T18:46:56.601Z"
             }
           ]
         },

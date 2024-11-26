@@ -63,6 +63,16 @@ namespace ProfesorFrm.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap AddDictionary {
+            get {
+                object obj = ResourceManager.GetObject("AddDictionary", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ProjectImports {
             get {
                 object obj = ResourceManager.GetObject("ProjectImports", resourceCulture);
